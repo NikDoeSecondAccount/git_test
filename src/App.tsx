@@ -5,6 +5,7 @@ function App () {
 	console.log('feature 3 in feature-1');
 	console.log('new feature 4');
 	console.log('new feature 5');
+	console.log('new feature from feature-1');
 	return <h1>Hello there 😊</h1>;
 }
 
